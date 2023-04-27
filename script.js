@@ -16,7 +16,7 @@ function fetchData(){
     
   
   function sortDataByNRR(storedData) {
-    return storedData.sort((a, b) => a.NRR - b.NRR);
+    return storedData.sort((a, b) => b.NRR - a.NRR);
   }
   
 
