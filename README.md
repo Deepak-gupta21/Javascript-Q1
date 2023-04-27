@@ -1,5 +1,5 @@
-##Question:-
-#IPL Points Table (with fetch)
+## Question:-
+# IPL Points Table (with fetch)
 Your task is to create a table for displaying the points of IPL Season 2022.
 The data is provided in this API endpoint: https://my-json-server.typicode.com/FreSauce/json-ipl/data.
 
